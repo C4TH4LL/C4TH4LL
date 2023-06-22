@@ -1,9 +1,10 @@
 <div id="header" align="center">
     <img src="https://media.giphy.com/media/QZkpIdieotn3i/giphy.gif" width="200" />
     <h1 align="center">Hi 👋, I'm C4TH4LL</h1>
-    <h3 align="center">A passionate fullstack web developer from Perú I like Laravel.</h3>
+    <h3 align="center">
+Student of the National University of San Agustin de Arequipa.</h3>
 </div>
----
+
 
 ### 👨‍💻 About Me :
 
@@ -11,11 +12,11 @@
 
 - 📫 How to reach me **jrodriguezlu@unsa.edu.pe**
 
-- 🌱I am currently learning **Python and Matlab**
+- 🌱I am currently learning **Python**
 
 
 <div align="left">
-    <h3>🔨 Languages and Tools:</h3>
+    <h3>🔨 Languages and Tools to learn:</h3>
     <div>
         <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
         <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
@@ -33,11 +34,3 @@
 </div>
 
 ---
-
-### 📊 My Stats :
-
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=YouDevs&theme=onedark)](https://git.io/streak-stats)
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=YouDevs&show_icons=true&theme=radical)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YouDevs&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
